@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: IBMPlexSerif-Light
+font link: https://fonts.google.com/specimen/IBM+Plex+Serif
+font author: Mike Abbink
+font author site: https://www.mikeabbink.com/
+
+
+icon designer: Smashicons
+icon designer link: /smashicons
+        
+{"bg":"#F1EFEF","icon-gradient-0":"#563F33","icon-gradient-1":"#A3A1A1","font":"#292523","slogan":"#3d3937"}
+      
